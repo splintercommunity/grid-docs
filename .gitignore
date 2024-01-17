@@ -16,5 +16,6 @@
 .jekyll-cache/
 _site/
 /database/
+/Gemfile.lock
 
 **/.DS_Store
