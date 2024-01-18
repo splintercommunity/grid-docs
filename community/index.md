@@ -32,6 +32,3 @@ specific tools and examples.
   any significant change or new feature. For more information, see the
   [grid-rfcs
   README](https://github.com/hyperledger/grid-rfcs/blob/master/README.md).
-
-* [See our code of conduct]({% link community/code_of_conduct.md %}):
-  This project follows the Hyperledger Code of Conduct.
