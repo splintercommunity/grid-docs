@@ -1,12 +1,13 @@
 # Batch Tracking Store
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
 -->
 
 The batch tracking store is a proposed component meant to provide functionality
-to the batch submitter/queuer and the DLT monitor on either a Hyperledger
+to the batch submitter/queuer and the DLT monitor on either a
 Sawtooth or Splinter network. This component will provide functionality to
 create records of batches and transactions and the status of their submissions
 to the underlying DLT.

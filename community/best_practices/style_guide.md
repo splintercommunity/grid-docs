@@ -1,4 +1,5 @@
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright 2018-2021 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -6,7 +7,7 @@
 
 # UI Style Guide
 
-The [Grid UI](https://github.com/hyperledger/grid/tree/master/ui) is an
+The [Grid UI](https://github.com/splintercommunity/grid/tree/main/ui) is an
 application build using the Canopy framework. This allows us to build Grid UI
 components as plugins which fit into the larger Grid UI environment. This
 document provides a styling reference for developers and designers creating UI

@@ -1,14 +1,14 @@
-# Contributing to Hyperledger Grid
+# Contributing to Grid
 
 <!--
-  Copyright (c) 2018-2019, Bitwise IO, Inc.
+  Copyright (c) 2018-2024, Bitwise IO, Inc.
   Copyright (c) 2015-2017, Intel Corporation.
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
 -->
 
-We welcome your help with Hyperledger Grid. Contributions from the development
-community help improve the design and capabilities of Hyperledger Grid. These
+We welcome your help with Grid. Contributions from the development
+community help improve the design and capabilities of Grid. These
 contributions are the best way to make a positive impact on the project.
 
 Ways you can contribute:
@@ -16,31 +16,26 @@ Ways you can contribute:
 * Bugs or issues: Report problems or defects found when working with Grid
 
 * Core features and enhancements for
-  [hyperledger/grid](https://github.com/hyperledger/grid):
+  [splintercommunity/grid](https://github.com/splintercommunity/grid):
   Provide expanded capabilities or optimizations
-
-* Features and enhancements for
-  [hyperledger/grid-contrib](https://github.com/hyperledger/grid-contrib):
-  Contribute new example apps, demos, and smart contracts, or help with
-  existing ones
 
 * Documentation: Improve existing documentation or create new information
 
 * Tests for events and results: Add functional, performance, or scalability
   tests
 
-Hyperledger Grid issues are tracked in JIRA (see
-[Using JIRA]({% link community/issue_tracking.md %})).
+ Grid issues are tracked in GitHub (see
+[Issue Tracking]({% link community/issue_tracking.md %})).
 Any unassigned items are probably still open. When in doubt, ask on
-the [#grid](https://chat.hyperledger.org/channel/grid) chat channel about
-a specific JIRA issue (see
-[Joining the Discussion]({% link community/join_the_discussion.md %})).
+the [#grid](https://discord.gg/BAVpP73NjW) chat channel about a specific
+GitHub issue (see [Joining the
+Discussion]({% link community/join_the_discussion.md %})).
 
 ## The Commit Process
 
-Hyperledger Grid is Apache 2.0 licensed and accepts contributions via 
-[GitHub](https://github.com/hyperledger/grid) pull requests. When contributing
-code, please follow these guidelines:
+Grid is Apache 2.0 licensed and accepts contributions via
+[GitHub](https://github.com/splintercommunity/grid) pull requests. When
+contributing code, please follow these guidelines:
 
 * Fork the repository and make your changes in a feature branch
 
@@ -99,15 +94,4 @@ A pull request cannot merged until it has passed these status checks:
 
 * The PR must be approved by at least two reviewers without any outstanding
   requests for changes
-
-## Integrating GitHub Commits with JIRA
-
-You can link JIRA issues to your commits, which will integrate developer
-activity with the associated issue. JIRA uses the issue key to associate the
-commit with the issue, so that the commit can be summarized in the development
-panel for the JIRA issue.
-
-When you make a commit, add the JIRA issue key to the end of the commit message
-or to the branch name. Either method should integrate your commit with the JIRA
-issue that it references.
 

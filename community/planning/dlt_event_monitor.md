@@ -1,5 +1,6 @@
 # DLT Event Monitor
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright 2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -85,7 +86,7 @@ Events](https://www.splinter.dev/docs/0.7/howto/state_delta_websockets.html)
 **Stream URL:** `/ws/subscribe`
 
 **Definition:** [Sawtooth State Delta
-Events](https://sawtooth.hyperledger.org/docs/1.2/rest_api/state_delta_websockets.html)
+Events](https://sawtooth.splinter.dev/docs/1.2/rest_api/state_delta_websockets.html)
 
 **Example:**
 ```json
