@@ -1,11 +1,9 @@
-# Hyperledger Grid
-
-Hyperledger Grid [has moved](https://github.com/hyperledger/toc/issues/82) to [End of life status](https://toc.hyperledger.org/governing-documents/project-lifecycle.html#end-of-life).
+# Grid
 
 ## grid-docs
 
 The grid-docs repository contains source code and assets for the
-[Hyperledger Grid Docs website](https://grid.hyperledger.org).
+[Grid Docs website](https://grid.splinter.dev/).
 
 ## Building the Website Locally
 
@@ -17,7 +15,7 @@ Prerequisites:
 must be installed and running.
 
 1. Create a local clone of the
-   [grid-docs repository](https://github.com/hyperledger/grid-docs).
+   [grid-docs repository](https://github.com/splintercommunity/grid-docs).
 
 
 2. Change to the root directory of your local clone, then run the following
