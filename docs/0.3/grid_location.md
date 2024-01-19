@@ -1,6 +1,13 @@
 # Grid Location
 
-Hyperledger Grid Location is a framework for sharing location master data
+<!--
+  Copyright (c) 2024 Bitwise IO, Inc.
+  Copyright (c) 2018-2020 Cargill Incorporated
+  Licensed under Creative Commons Attribution 4.0 International License
+  https://creativecommons.org/licenses/by/4.0/
+-->
+
+Grid Location is a framework for sharing location master data
 between trade partners. The framework is built in a generic and extensible way
 to allow for flexibility in serving various use cases and specialized
 industries. The first extension of this framework – a GS1 compliant location
@@ -71,5 +78,6 @@ way. Stay tuned for the Grid Location visual design and implementation.
 
 ## Want to learn more?
 
-Explore Grid Location implementation details by reviewing the Hyperledger Grid
-Location Request for Comment (RFC) found in the [Hyperledger Grid RFC Repo](https://github.com/hyperledger/grid-rfcs).
+Explore Grid Location implementation details by reviewing the Grid
+Location Request for Comment (RFC) found in the [Grid RFC
+Repo](https://github.com/splintercommunity/grid-rfcs/blob/main/text/0020-location.md).

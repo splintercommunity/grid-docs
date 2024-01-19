@@ -1,6 +1,7 @@
 # Building Grid
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -9,7 +10,7 @@
 ## Local Builds
 
 To build Grid locally, first you must install the prerequisites outlined in the
-[README](https://github.com/hyperledger/grid/blob/main/README.md). Then run
+[README](https://github.com/splintercommunity/grid/blob/main/README.md). Then run
 `cargo build` from the root directory. This command builds all of the Grid
 components, including `gridd` (the grid daemon), the CLI, and all of the smart
 contracts in the `contracts` directory.
