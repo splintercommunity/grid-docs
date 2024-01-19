@@ -1,4 +1,5 @@
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2018-2021 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -6,7 +7,7 @@
 
 # Product Sapling
 
-The [grid repository](https://github.com/hyperledger/grid/tree/master/ui)
+The [grid repository](https://github.com/splintercommunity/grid/tree/main/ui)
 includes the UI for Grid functionality. This document shows some planned
 screens for the Product functionality to be added to the Grid UI.
 

@@ -1,6 +1,7 @@
 # Best Practices for Grid Feature Documentation
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2019-2020, Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -63,13 +64,11 @@ format, and transaction types.
 *Examples*: <a href="/docs/{{ site.data.general.latest_version
 }}/grid_product_smart_contract_specification.html">
 Grid Product Smart Contract Specification</a>,
-[Sawtooth Transaction Family Specifications](https://sawtooth.hyperledger.org/docs/1.2/transaction_family_specifications/)
+[Sawtooth Transaction Family Specifications](https://sawtooth.splinter.dev/docs/1.2/transaction_family_specifications/)
 
 ### Database Tables Reference
 
-Provide a reference topic that describes the Grid daemon's database schema,
-as defined in
-[grid/daemon/src/database/schema.rs](https://github.com/hyperledger/grid/blob/master/daemon/src/database/schema.rs).
+Provide a reference topic that describes the Grid daemon's database schema.
 
 *Examples*: [Splinter: Biome Database
 Tables](https://www.splinter.dev/docs/0.4/concepts/biome_user_management.html#biome-database-tables),
@@ -84,9 +83,9 @@ list the supported GS1 fields and associated GS1 attributes.
 ### REST API Reference
 
 Update the Grid Daemon's
-[openapi.yaml](https://github.com/hyperledger/grid/blob/master/daemon/openapi.yaml)
+[openapi.yaml](https://github.com/splintercommunity/grid-docs/blob/main/docs/0.4/references/api/openapi.yaml)
 file to describe the feature's REST API endpoints. The [Grid REST API
-Reference](https://grid.hyperledger.org/docs/0.1/api/) is automatically
+Reference](https://grid.splinter.dev/docs/0.4/api/) is automatically
 generated from the contents of this file.
 
 *Example*: [splinterd REST API Reference: Splinter

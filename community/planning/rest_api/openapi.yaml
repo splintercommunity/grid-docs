@@ -1,3 +1,4 @@
+# Copyright 2024 Bitwise IO, Inc.
 # Copyright 2021-2022 Cargill Incorporated
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,10 +17,10 @@ openapi: 3.0.0
 info:
   version: 0.4.0
   title: Grid Daemon REST API
-  description: A REST API providing HTTP/JSON interface to Hyperledger Grid.
+  description: A REST API providing HTTP/JSON interface to Grid.
   contact:
-    name: Hyperledger Grid community
-    url: https://grid.hyperledger.org/community/
+    name: Grid community
+    url: https://grid.splinter.dev/community/
   license:
     name: Apache 2.0
     url: http://www.apache.org/licenses/LICENSE-2.0
@@ -27,7 +28,7 @@ externalDocs:
   description: |
     For more information about how to create Sabre batches, please see the
     Sabre documentation.
-  url: https://sawtooth.hyperledger.org/docs/1.2/sabre/sabre_transaction_family.html
+  url: https://sawtooth.splinter.dev/docs/1.2/sabre/sabre_transaction_family.html
 paths:
   # Transactions
   /batch_statuses:
@@ -111,7 +112,7 @@ paths:
       externalDocs:
         description:
           For more information about the Location data structure, see the Grid website
-        url: https://grid.hyperledger.org/docs/0.3/grid_location.html
+        url: https://grid.splinter.dev/docs/0.3/grid_location.html
       description: |
         This endpoint can be used to submit locations to the underlying
         distributed ledger. The operation called by this endpoint will depend on
@@ -318,7 +319,7 @@ paths:
       externalDocs:
         description:
           For more information about the Pike data structure, see the Grid website
-        url: https://grid.hyperledger.org/docs/0.3/grid_pike.html
+        url: https://grid.splinter.dev/docs/0.3/grid_pike.html
       description: |
         This endpoint can be used to submit organizations to the underlying
         distributed ledger. The operation called by this endpoint will depend on
