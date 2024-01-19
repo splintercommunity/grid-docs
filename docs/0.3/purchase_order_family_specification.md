@@ -1,6 +1,7 @@
 # Purchase Order Smart Contract Specification
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2019-2021 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -136,9 +137,9 @@ The protocol buffer is defined as follows:
 ### PurchaseOrderAlternateId
 
 Similar to the mechanism outlined in the
-[Pike 2 RFC](https://github.com/hyperledger/grid-rfcs/pull/23), the purchase
-order smart contract implements alternate IDs to enable the creation of
-purchase orders without having to specify a purchase order number.
+[Pike 2 RFC](https://github.com/splintercommunity/grid-rfcs/blob/main/text/0023-grid-identity.md),
+the purchase order smart contract implements alternate IDs to enable the
+creation of purchase orders without having to specify a purchase order number.
 
 In this object, `id_type` is the name of the field used as an alternate ID,
 `id` holds the value of the unique alternate ID, and `org_id` refers to the

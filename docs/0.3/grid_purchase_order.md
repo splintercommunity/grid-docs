@@ -1,6 +1,7 @@
 # Grid Purchase Order
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -172,15 +173,15 @@ Purchase Order workflows use three core components to facilitate transactions:
   each step of the purchase order process, i.e. at each workflow state
 
 For more information on the built-in workflows, see the
-[Purchase Order RFC](https://github.com/Cargill/grid-rfcs/blob/ryanlassigbanks-purchase-order-rfc/text/0025-purchase-order.md).
+[Purchase Order RFC](https://github.com/splintercommunity/grid-rfcs/blob/main/text/0025-purchase-order.md).
 
 Organizations can use the built-in workflows or create their own to fit their
 needs. For more information about the Grid Workflow feature, see the
-[Workflow RFC](https://github.com/hyperledger/grid-rfcs/blob/main/text/0024-workflows.md).
+[Workflow RFC](https://github.com/splintercommunity/grid-rfcs/blob/main/text/0024-workflows.md).
 
 ### Future development
 
 In the near-term, the Purchase Order feature is focused on delivering better
 communication and collaboration on purchasing information. Looking to the
 future, it sets the stage for further integration, both upstream and
-downstream, with order fulfillment and settlement business processes. 
+downstream, with order fulfillment and settlement business processes.

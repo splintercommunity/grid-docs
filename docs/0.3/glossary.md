@@ -1,12 +1,13 @@
 # Grid Glossary
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2019-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
 -->
 
-This glossary defines Hyperledger Grid terms and concepts.
+This glossary defines Grid terms and concepts.
 <br><br>
 
 <h3 class="glossary-header" id="agent">
