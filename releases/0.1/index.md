@@ -1,6 +1,7 @@
 # Grid v0.1 Release
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -8,7 +9,7 @@
 
 Grid v0.1 is the first major release of Grid. Here's a summary of the initial
 features included in this release. For detailed changes related to the v0.1
-release, see the [Grid release notes](https://github.com/hyperledger/grid/blob/0-1/RELEASE_NOTES.md).
+release, see the [Grid release notes](https://github.com/splintercommunity/grid/blob/0-1/RELEASE_NOTES.md).
 
 If you're new to Grid, see the [Grid documentation]({% link docs/0.1/index.md %})
 to learn about Grid concepts and features.
@@ -51,13 +52,3 @@ supporting features,
 these features includes a smart contract, handlers for translating data from
 Scabbard or Sawtooth state change events into database records in the Grid
 database, as well as CLIs and REST API endpoints for fetching data.
-
-## Grid Software
-
-Grid is an open-source software platform that is available on Github in the
-[hypeledger/grid](https://github.com/hyperledger/grid) repository.
-
-Prebuilt Docker images are published on Dockerhub:
- - Grid daemon: [hyperledger/gridd](https://hub.docker.com/r/hyperledger/gridd)
- - Grid CLI: [hyperledger/grid-cli](https://hub.docker.com/r/hyperledger/grid-cli)
- - Grid UI: [hyperledger/grid-ui](https://hub.docker.com/r/hyperledger/grid-ui)
