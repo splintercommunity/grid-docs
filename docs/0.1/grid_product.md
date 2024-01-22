@@ -1,6 +1,7 @@
 # Grid Product
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -20,7 +21,7 @@ With Grid Product, it's easy to define and share product-related data.
   Definitions for Business
   (ADB)](https://www.gs1.org/standards/attribute-definitions-for-business ).
 
-Hyperledger Grid's modular architecture allows Grid Product to cleanly separate
+Grid's modular architecture allows Grid Product to cleanly separate
 the product-related business rules from the creation and management of product
 data.  The Grid Product smart contract defines the product operations (create,
 update, and delete). Other Grid utilities let users and applications define,
