@@ -1,6 +1,7 @@
 # Grid Product
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2018-2021 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -13,7 +14,7 @@ features a flexible design that can be extended to other standards.
 
 With Grid Product, it's easy to define and share product-related data.
 
-Hyperledger Grid's modular architecture allows Grid Product to cleanly separate
+Grid's modular architecture allows Grid Product to cleanly separate
 the product-related business rules from the creation and management of product
 data. The Grid Product smart contract defines the product operations (create,
 update, and delete). Other Grid utilities let users and applications define,
@@ -36,7 +37,7 @@ definitions. This allows users who already have product data conforming to this
 standard to easily submit their product definitions into Grid.
 
 To support this functionality, the Grid Product CLI provides functionality to
-parse and validate XML data against the [GridTradeItems XML Schema Definition](https://github.com/hyperledger/grid/blob/main/sdk/src/products/gdsn/GridTradeItems.xsd).
+parse and validate XML data against the [GridTradeItems XML Schema Definition](https://github.com/splintercommunity/grid/blob/main/sdk/src/data_validation/xml/xsd/product/GridTradeItems.xsd).
 The gridTradeItems element defined within the GridTradeItems XSD acts as a
 wrapper for tradeItems elements as defined in the GDSN
 [TradeItem XSD](http://www.gdsregistry.org/3.1/schemas/gs1/gdsn/TradeItem.xsd).

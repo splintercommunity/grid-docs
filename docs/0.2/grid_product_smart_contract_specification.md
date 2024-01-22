@@ -1,6 +1,7 @@
 # Grid Product Smart Contract Specification
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -12,7 +13,7 @@ Grid Product is a smart contact designed to run with the
 [Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
 smart contract engine.
 
-Grid Product is designed to supply Hyperledger Grid with a generic and
+Grid Product is designed to supply Grid with a generic and
 extendable framework for storing product master data. A product in this case, is
 any  item that is transacted, traded or referenced in a supply chain. Grid
 Product offers explicit support for products defined using the

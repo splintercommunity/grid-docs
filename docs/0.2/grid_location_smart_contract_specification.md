@@ -1,6 +1,7 @@
 # Grid Location Smart Contract Specification
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -12,7 +13,7 @@ Grid Location is a smart contract designed to run with the
 [Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
 smart contract engine.
 
-Grid Location is designed to supply Hyperledger Grid with a generic and extendable
+Grid Location is designed to supply Grid with a generic and extendable
 framework for storing and managing location entities. Grid Location offers
 explicit support for locations defined using
 the [GS1 data standard](https://www.gs1.org/), but is also designed to be
