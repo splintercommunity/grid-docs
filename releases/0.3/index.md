@@ -1,6 +1,7 @@
 # Grid v0.3 Release
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2018-2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -11,7 +12,7 @@ to learn about Grid concepts and features.
 
 Grid v0.3 is the third major release of Grid. Below is a summary of the
 features and changes included in this release. For detailed changes related to
-the v0.3 release, see the [Grid release notes](https://github.com/hyperledger/grid/blob/0-3/RELEASE_NOTES.md).
+the v0.3 release, see the [Grid release notes](https://github.com/splintercommunity/grid/blob/0-3/RELEASE_NOTES.md).
 
 ## New and Noteworthy
 

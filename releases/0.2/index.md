@@ -1,6 +1,7 @@
 # Grid v0.2 Release
 
 <!--
+  Copyright 2024 Bitwise IO, Inc.
   Copyright 2018-2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -11,7 +12,7 @@ to learn about Grid concepts and features.
 
 Grid v0.2 is the second major release of Grid. Below is a summary of the
 features and changes included in this release. For detailed changes related to
-the v0.2 release, see the [Grid release notes](https://github.com/hyperledger/grid/blob/0-2/RELEASE_NOTES.md).
+the v0.2 release, see the [Grid release notes](https://github.com/splintercommunity/grid/blob/0-2/RELEASE_NOTES.md).
 
 ## New and Noteworthy
 
@@ -39,7 +40,7 @@ use-case, users can still define custom schemas for Grid Product.
 GDSN products can be created and updated on Grid via the CLI. In addition to the
 previously supported YAML format, Grid will now accept XML wrapped in the
 gridTradeItems element as defined in the
-[GridTradeItems XSD](https://github.com/hyperledger/grid/blob/main/sdk/src/products/gdsn/GridTradeItems.xsd).
+[GridTradeItems XSD](https://github.com/splintercommunity/grid/blob/0-2/sdk/src/product/gdsn/GridTradeItems.xsd).
 For more information, please see the
 [Grid CLI Command Reference]({% link docs/0.2/cli_references.md %}).
 
@@ -81,6 +82,6 @@ organization structures will have to be recreated on existing networks.
 Many Rust dependencies have been updated and added, including:
 
 - [`actix-web`](https://github.com/actix/actix-web) was updated to version 3.
-- Signing and key generation is now handled by [`cylinder`](https://github.com/cargill/cylinder).
+- Signing and key generation is now handled by [`cylinder`](https://github.com/splintercommunity/cylinder).
 - Other dependencies and features were added as needed to implement new
   functionality.
