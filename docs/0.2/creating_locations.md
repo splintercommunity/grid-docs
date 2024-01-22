@@ -1,6 +1,7 @@
 # Creating Locations with Grid on Splinter
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -154,10 +155,10 @@ needed.
 **IMPORTANT**: The commands in this procedure show host names, IDs, Docker
 container names, and other values from the example Grid-on-Splinter environment
 that is defined by
-[`grid/examples/splinter/docker-compose.yaml`](https://github.com/hyperledger/grid/blob/master/examples/splinter/docker-compose.yaml).
+[`grid/examples/splinter/docker-compose.yaml`](https://github.com/splintercommunity/grid/blob/main/examples/splinter/docker-compose.yaml).
 This file sets up the nodes `alpha-node-000` and `beta-node-000` and runs the
 Grid and Splinter components in separate containers; these names appear in
-example prompts and commands. (See [Running Hyperledger Grid on
+example prompts and commands. (See [Running Grid on
 Splinter]({% link docs/0.2/grid_on_splinter.md %}) for more information.)
 
 If you are not using this example environment, replace these items with the

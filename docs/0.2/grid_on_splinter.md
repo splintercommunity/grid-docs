@@ -1,6 +1,13 @@
-# Running Hyperledger Grid on Splinter
+# Running Grid on Splinter
 
-Hyperledger Grid supports [Splinter](https://www.splinter.dev/) as a backend
+<!--
+  Copyright (c) 2024 Bitwise IO, Inc.
+  Copyright (c) 2018-2020 Cargill Incorporated
+  Licensed under Creative Commons Attribution 4.0 International License
+  https://creativecommons.org/licenses/by/4.0/
+-->
+
+Grid supports [Splinter](https://www.splinter.dev/) as a backend
 distributed ledger. This document shows how to set up a Grid-on-Splinter
 environment that runs in a set of Docker containers.
 
@@ -37,8 +44,8 @@ $ docker-compose -f examples/splinter/docker-compose.yaml pull generate-registry
 
 ## Set Up and Run Grid
 
-1. Clone the [Hyperledger Grid repository](https://github.com/hyperledger/grid)
-   ([https://github.com/hyperledger/grid](https://github.com/hyperledger/grid)).
+1. Clone the [Grid repository](https://github.com/splintercommunity/grid)
+   ([https://github.com/splintercommunity/grid](hhttps://github.com/splintercommunity/grid)).
 2. Navigate to the grid root directory and build the Grid Docker containers.
 
    `$ docker-compose -f examples/splinter/docker-compose.yaml build --pull`
