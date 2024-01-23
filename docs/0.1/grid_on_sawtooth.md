@@ -1,10 +1,17 @@
-# Running Hyperledger Grid on Sawtooth
+# Running Grid on Sawtooth
 
-Hyperledger Grid supports [Sawtooth](https://sawtooth.hyperledger.org/) as a
+<!--
+  Copyright (c) 2024 Bitwise IO, Inc.
+  Copyright (c) 2018-2020 Cargill Incorporated
+  Licensed under Creative Commons Attribution 4.0 International License
+  https://creativecommons.org/licenses/by/4.0/
+-->
+
+Grid supports [Sawtooth](https://sawtooth.hyperledger.org/) as a
 backend distributed ledger. This document shows how to set up a
 Grid-on-Sawtooth environment that runs in a set of Docker containers.
 
-The example Sawtooth [docker-compose](https://github.com/hyperledger/grid/blob/master/examples/sawtooth/docker-compose.yaml)
+The example Sawtooth [docker-compose](https://github.com/splintercommunity/grid/blob/main/examples/sawtooth/docker-compose.yaml)
 file creates a network with two nodes (alpha and beta) that can be used for
 demos or application development. This environment includes the Pike, Product,
 Location, and Schema smart contracts.
@@ -26,8 +33,8 @@ Location, and Schema smart contracts.
 
 ## Set Up and Run Grid
 
-1. Clone the [Hyperledger Grid repository](https://github.com/hyperledger/grid)
-   ([https://github.com/hyperledger/grid](https://github.com/hyperledger/grid)).
+1. Clone the [Grid repository](https://github.com/splintercommunity/grid)
+   ([https://github.com/splintercommunity/grid](https://github.com/splintercommunity/grid)).
 2. Navigate to the grid root directory and build the Grid Docker containers.
 
    `$ docker-compose -f examples/sawtooth/docker-compose.yaml build --pull`
