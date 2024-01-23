@@ -1,6 +1,7 @@
 # Creating Splinter Circuits
 
 <!--
+  Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2018-2022 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -9,7 +10,7 @@
 This procedure summarizes how to create a simple Splinter circuit between
 two or more nodes, using the example Grid-on-Splinter environment that is
 defined by
-[grid/examples/splinter/docker-compose.yaml](https://github.com/hyperledger/grid/blob/master/examples/splinter/docker-compose.yaml)
+[grid/examples/splinter/docker-compose.yaml](https://github.com/splintercommunity/grid/blob/main/examples/splinter/docker-compose.yaml)
 in the `grid` repository.
 
 For more information on circuit creation, see [Creating a
@@ -56,7 +57,7 @@ Splinter, see the [Splinter documentation](https://splinter.dev/docs/0.6/howto/c
 
 Also, this procedure assumes that all nodes are running in docker containers on
 the same system (as in the [example docker-compose
-file](https://github.com/hyperledger/grid/blob/master/examples/splinter/docker-compose.yaml)).
+file](https://github.com/splintercommunity/grid/blob/main/examples/splinter/docker-compose.yaml)).
 If the nodes are on separate physical systems, you must share node information
 and network endpoints with the other administrators. To use the Splinter
 registry to share node information, see the [Splinter
