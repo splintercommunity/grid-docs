@@ -26,6 +26,10 @@ jobs:
           bundler-cache: true
       - name: Install Just
         run: sudo snap install --edge --classic just
+      - name: Install redoc
+        run: npm install -g redoc
+      - name: Install redoc-cli
+        run: npm install -g redoc-cli
       - name: Build
         run: just build
       - name: "Deploy to AWS S3"

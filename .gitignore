@@ -13,9 +13,16 @@
 # limitations under the License.
 
 #jekyll stuff
-.jekyll-cache/
-_site/
+/.jekyll-cache/
+/.jekyll-metadata
+/_site/
 /database/
 /Gemfile.lock
+
+/community/planning/rest_api/api/
+/docs/0.1/api/
+/docs/0.2/api/
+/docs/0.3/api/
+/docs/0.4/api/
 
 **/.DS_Store
