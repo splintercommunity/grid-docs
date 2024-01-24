@@ -55,4 +55,4 @@ SEE ALSO
 | `grid role update(1)`
 | `grid role show(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.4/
+| Grid documentation: https://grid.splinter.dev/docs/0.4/

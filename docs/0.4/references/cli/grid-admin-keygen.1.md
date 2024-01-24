@@ -49,4 +49,4 @@ SEE ALSO
 ========
 | `grid admin(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.4/
+| Grid documentation: https://grid.splinter.dev/docs/0.4/

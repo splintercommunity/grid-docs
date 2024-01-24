@@ -48,4 +48,4 @@ SEE ALSO
 ========
 | `grid database migrate(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.3/
+| Grid documentation: https://grid.splinter.dev/docs/0.3/

@@ -92,4 +92,4 @@ SEE ALSO
 | `grid-product-show(1)`
 | `grid-product-list(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.3/
+| Grid documentation: https://grid.splinter.dev/docs/0.3/
