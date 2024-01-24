@@ -130,4 +130,4 @@ SEE ALSO
 | `grid-po-version-update(1)`
 | `grid-po-revision(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.3/
+| Grid documentation: https://grid.splinter.dev/docs/0.3/

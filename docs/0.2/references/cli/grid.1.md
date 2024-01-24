@@ -116,4 +116,4 @@ SEE ALSO
 |
 | `grid(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.2/
+| Grid documentation: https://grid.splinter.dev/docs/0.2/

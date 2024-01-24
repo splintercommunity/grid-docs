@@ -137,6 +137,6 @@ SEE ALSO
 | `grid-po-version-update(1)`
 | `grid-po-revision(1)`
 |
-| Grid documentation: https://grid.hyperledger.org/docs/0.4/
+| Grid documentation: https://grid.splinter.dev/docs/0.4/
 | GS1 Order 3.4:
 | https://www.gs1.org/sites/default/files/docs/EDI/ecom-xml/functional-user-guide/3_4/HTML/O/a1.htm
