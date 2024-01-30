@@ -9,7 +9,7 @@
 ## Overview
 
 Pike is a smart contract designed to run with the
-[Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+[Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Pike is designed to track the identities of the actors involved in the supply

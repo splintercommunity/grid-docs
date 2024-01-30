@@ -1,6 +1,7 @@
 # Using Grid Features
 
 <!--
+   Copyright (c) 2024 Bitwise IO, Inc.
   Copyright (c) 2018-2020 Cargill Incorporated
   Licensed under Creative Commons Attribution 4.0 International License
   https://creativecommons.org/licenses/by/4.0/
@@ -32,7 +33,7 @@ Before using Grid features such as Grid Product and Grid Location, the following
 prerequisites must be met.
 
 * Two or more nodes running Grid with the same backend distributed ledger
-  (either Splinter or Hyperledger Sawtooth). The following procedures describe
+  (either Splinter or Sawtooth). The following procedures describe
   how to bring up a Grid node with each type of distributed ledger.
 
     - [Running Grid on Splinter]({% link docs/0.1/grid_on_splinter.md %})

@@ -10,7 +10,7 @@
 ## Overview
 
 Grid Track and Trace is a smart contract designed to run
-with the [Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+with the [Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Grid Track and Trace allows users to track goods as they move through a supply

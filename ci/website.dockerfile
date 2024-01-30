@@ -79,7 +79,7 @@ COPY apache/rewrite.conf /usr/local/apache2/conf/rewrite.conf
 
 RUN echo "\
 \n\
-ServerName grid.hyperledger.org\n\
+ServerName grid.splinter.dev\n\
 ErrorDocument 404 /404.html\n\
 \n\
 Include /usr/local/apache2/conf/rewrite.conf\n\

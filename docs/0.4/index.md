@@ -32,7 +32,7 @@ Grid components include:
 
 * [Pike]({% link docs/0.4/pike_smart_contract_specification.md %}),
   a smart contract that handles organization and identity permissions
-  with [Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre).
+  with [Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre).
 
 * SDKs that simplify development for smart contracts, such as the Rust SDK for
   Pike.
