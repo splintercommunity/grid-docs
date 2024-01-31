@@ -1,6 +1,9 @@
 name: Deploy-to-grid.splinter.dev
 
 on:
+  push:
+    branches: [ main ]
+
   workflow_dispatch:
 
 concurrency:
