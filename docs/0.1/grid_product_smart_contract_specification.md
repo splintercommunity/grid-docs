@@ -9,7 +9,7 @@
 ## Overview
 
 Grid Product is a smart contact designed to run with the
-[Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+[Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Grid Product is designed to supply Grid with a generic and

@@ -7,7 +7,7 @@
   https://creativecommons.org/licenses/by/4.0/
 -->
 
-Grid supports [Sawtooth](https://sawtooth.hyperledger.org/) as a
+Grid supports [Sawtooth](https://sawtooth.splinter.dev) as a
 backend distributed ledger. This document shows how to set up a
 Grid-on-Sawtooth environment that runs in a set of Docker containers.
 

@@ -79,7 +79,7 @@ will be randomly generated.
   Built-in workflows are "built-in::system_of_record::v1", which uses buyer and
   seller roles, and "built-in::collaborative::v1", which uses collaborative
   partner roles. For more information on these workflows, see
-  https://github.com/hyperledger/grid-rfcs/pull/25 .
+  https://github.com/splintercommunity/grid-rfcs/blob/main/text/0025-purchase-order.md .
 
 EXAMPLES
 ========

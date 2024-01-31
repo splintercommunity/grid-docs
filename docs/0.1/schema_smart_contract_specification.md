@@ -9,7 +9,7 @@
 ## Overview
 
 Schema is a smart contract designed to run with the
-[Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+[Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Schema provides a reusable, standard approach to defining, storing, and
@@ -510,7 +510,7 @@ To avoid hash collisions, schemas must be stored in a `SchemaList`.
 ## Transaction Payload and Execution
 
 The following transactions and their execution rules are designed for the
-Hyperledger Sawtooth platform and may differ for other transaction execution
+Sawtooth platform and may differ for other transaction execution
 platforms.
 
 The header for the transactions includes the following:

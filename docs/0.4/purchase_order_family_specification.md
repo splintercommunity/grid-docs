@@ -10,7 +10,7 @@
 ## Overview
 
 Purchase Order is a smart contract designed to run with the
-[Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+[Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Purchase Order enables trade partners to collaboratively create and modify

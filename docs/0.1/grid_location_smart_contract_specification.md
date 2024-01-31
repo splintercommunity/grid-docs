@@ -10,7 +10,7 @@
 ## Overview
 
 Grid Location is a smart contract designed to run with the
-[Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+[Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Grid Location is designed to supply Grid with a generic and extendable

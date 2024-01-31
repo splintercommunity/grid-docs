@@ -231,7 +231,7 @@ xsi:noNamespaceSchemaLocation="gridTradeItems.xsd">
                           PRODUCT_IMAGE
                         </referencedFileTypeCode>
                         <uniformResourceIdentifier>
-                          https://grid.hyperledger.org/assets/grid_wordmark.svg
+                          https://grid.splinter.dev/assets/grid_wordmark.svg
                         </uniformResourceIdentifier>
                     </referencedFileHeader>
                 </referencedFileDetailInformationModule>

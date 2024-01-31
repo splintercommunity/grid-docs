@@ -10,7 +10,7 @@
 ## Overview
 
 Grid Product Catalog is a smart contract designed to run with the
-[Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre/)
+[Sawtooth Sabre](https://github.com/splintercommunity/sawtooth-sabre/)
 smart contract engine.
 
 Grid Product Catalog provides the ability to share an assortment of products
