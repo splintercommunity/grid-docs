@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-url: https://grid.splinter.dev/
+url: https://grid.splinter.dev
 google_analytics: "UA-135255838-1"
 
 plugins:
